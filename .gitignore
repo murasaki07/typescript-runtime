@@ -28,6 +28,7 @@ pids
 # Logs
 logs
 *.log
+output/
 
 # Environment variables
 .env
